@@ -1,4 +1,4 @@
-﻿namespace Icons
+﻿namespace WebIcons
 {
     public static class FontAwesome
     {
