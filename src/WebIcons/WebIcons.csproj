@@ -36,9 +36,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MaterialDesign.cs" />
+    <Compile Include="Glyphicons.cs" />
     <Compile Include="FontAwesome.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

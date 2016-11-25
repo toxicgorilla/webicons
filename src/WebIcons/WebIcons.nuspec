@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>WebIcons</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <title>Web Icons</title>
     <authors>Stephen Hughes</authors>
     <owners>Stephen Hughes</owners>
@@ -11,11 +11,8 @@
     <iconUrl>https://bytebucket.org/toxicgorilla/webicons/raw/1580b7da2377736be1259826b37557cbe635c7b8/icon.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Web Icon helpers for Font Awesome, Glyphicons, and Material Design</description>
-    <releaseNotes>First release</releaseNotes>
+    <releaseNotes>First release, incuding Font Awesome, Glyphicons, and Material Design icons</releaseNotes>
     <copyright>Copyright Stephen Hughes 2016</copyright>
     <tags>WebIcon WebIcons Font Awesome FontAwesome Glyphicons Material Design MaterialDesign Toxic Gorilla ToxicGorilla</tags>
   </metadata>
-  <files>
-    <file src="bin\$configuration$\$id$.dll" target="lib" />
-  </files>
 </package>
