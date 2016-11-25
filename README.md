@@ -1,29 +1,22 @@
-# README #
+# WebIcons
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## What?
++ Font Awesome
++ Glyphicons
++ Material Design
 
-### What is this repository for? ###
+## Why?
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+So you can do this:
 
-### How do I get set up? ###
+### *pic here*
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## How?
+Package Manager Console:
 
-### Contribution guidelines ###
+<code>
+Install-Package WebIcons
+</code>
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Comments  / Suggestions?
+I don't care
