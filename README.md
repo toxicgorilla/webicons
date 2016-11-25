@@ -9,7 +9,7 @@
 
 So you can do this:
 
-### *pic here*
+[Imgur](http://i.imgur.com/dwGOMZ0.png)
 
 ## How?
 Package Manager Console:
