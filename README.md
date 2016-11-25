@@ -3,6 +3,9 @@
 [Link to NuGet package](https://www.nuget.org/packages/WebIcons)
 
 ## What?
+
+Intellisense in Visual Studio for the latest web fonts:
+
 + Font Awesome
 + Glyphicons
 + Material Design
