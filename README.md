@@ -16,13 +16,14 @@ So you can do this:
 ## How?
 Package Manager Console:
 
-> Install-Package WebIcons
+> ```Install-Package WebIcons```
 
 In .cshtml file:
-> <i class="@WebIcons.FontAwesome.Hotel"></i>
+
+> ```<i class="@WebIcons.FontAwesome.Hotel"></i>```
 
 In .cs file:
 
-> using WebIcons;
+> ```using WebIcons;```
 >
-> var iconTag = $"<i class=\"{ WebIcons.FontAwesome.Hotel }\"></i>";
+> ```var iconTag = $"<i class=\"{ WebIcons.FontAwesome.Hotel }\"></i>";```
