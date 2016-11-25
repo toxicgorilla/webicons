@@ -1,5 +1,7 @@
 # WebIcons
 
+[Link to NuGet package](https://www.nuget.org/packages/WebIcons)
+
 ## What?
 + Font Awesome
 + Glyphicons
