@@ -9,7 +9,7 @@
 
 So you can do this:
 
-[Imgur](http://i.imgur.com/dwGOMZ0.png)
+![why](http://i.imgur.com/dwGOMZ0.png)
 
 ## How?
 Package Manager Console:
